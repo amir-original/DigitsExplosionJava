@@ -1,0 +1,2 @@
+# DigitsExplosionJava
+Digits explosion Kata.
